@@ -12,7 +12,7 @@ Projeto "Construindo uma Pokédex com JavaScript" através do consumo de uma API
 <br>
 
 <p align="center">
-  <img alt="pokedex" src=".github/project.gif" width="460" height="300">
+  <img width="460" height="300" src="assets/github/project.gif">
 </p>
 
 ## 🚀 Tecnologias
